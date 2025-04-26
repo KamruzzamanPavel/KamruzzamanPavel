@@ -2,7 +2,7 @@
 ### **MERN Stack Developer** | **Full-Stack Enthusiast**  
 
 💻 I build robust web applications using **JavaScript, React, Node.js, and MongoDB**.  
-🛠️ Also experienced in **Laravel, Python, Django, Git & GitHub**.  
+🛠️ Also experienced in **Rails,Laravel, Git & GitHub**.  
 🚀 Passionate about **clean code, scalable architecture, and open-source contributions**.  
 
 ---
