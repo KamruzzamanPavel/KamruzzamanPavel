@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Pavel
-### **MERN Stack Developer** | **Full-Stack Enthusiast**  
+### **Ruby on Rails Developer** | **Full-Stack Enthusiast**  
 
-💻 I build robust web applications using **JavaScript, React, Node.js, and MongoDB**.  
-🛠️ Also experienced in **Rails,Laravel, Git & GitHub**.  
-🚀 Passionate about **clean code, scalable architecture, and open-source contributions**.  
+💻 I build robust web applications using ** React, Node.js, Rails, PostgreSQL, MongoDB**.  
+🛠️ Also experienced in version control using **Git & GitHub**.  
+🚀 Passionate about **clean code, scalable architecture, and Test-Driven Development (TDD)**.  
 
 ---
 
@@ -11,7 +11,6 @@
 
 ### **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
 
@@ -47,4 +46,4 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mkpavel.vercel.app/)  
 
-⭐ **Fun Fact**: I am a paper plane enthusiast 
+⭐ **Fun Fact**: I am a paper plane enthusiast ✈️ — I’ve actually designed three unique paper planes ✈️ 🛩️ 🚀!
