@@ -19,7 +19,6 @@
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 ### **Databases**  
@@ -31,7 +30,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+
 
 ---
 
@@ -41,12 +40,7 @@
 
 ---
 
-## 🚀 **Latest Projects**  
-- **[Project 1](https://github.com/yourusername/project1)** - A MERN stack e-commerce platform.  
-- **[Project 2](https://github.com/yourusername/project2)** - Laravel-based CRM system.  
-- **[Project 3](https://github.com/yourusername/project3)** - Django REST API for task management.  
 
----
 
 ## 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamruzzaman-pavel-web-mern-laravel)
