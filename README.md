@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Pavel
-### **Ruby on Rails Developer** | **Full-Stack Enthusiast**  
+### ** MERN Stack Developer ** 
 
-💻 I build robust web applications using ** React, Node.js, Rails, PostgreSQL, MongoDB**.  
+💻 I build robust web applications using ** React, Node.js, Express.js, MongoDB**.  
 🛠️ Also experienced in version control using **Git & GitHub**.  
 🚀 Passionate about **clean code, scalable architecture, and Test-Driven Development (TDD)**.  
 
@@ -15,7 +15,6 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
 
 ### **Backend**  
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
