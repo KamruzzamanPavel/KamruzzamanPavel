@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pavel
-### ** MERN Stack Developer ** 
+### ** Full Stack Developer ** 
 
 💻 I build robust web applications using ** React, Node.js, Express.js, MongoDB**.  
 🛠️ Also experienced in version control using **Git & GitHub**.  
